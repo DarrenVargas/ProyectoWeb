@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Infrastructure\\Guest.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Application\\Guests.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Application\\Guests.Application.csproj",
+        "projectName": "Guests.Application",
+        "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Application\\Guests.Application.csproj",
+        "packagesPath": "C:\\Users\\INTEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\INTEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Domain\\Guest.Domain.csproj": {
+                "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Domain\\Guest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Domain\\Guest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Domain\\Guest.Domain.csproj",
+        "projectName": "Guest.Domain",
+        "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Domain\\Guest.Domain.csproj",
+        "packagesPath": "C:\\Users\\INTEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\INTEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Infrastructure\\Guest.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Infrastructure\\Guest.Infrastructure.csproj",
+        "projectName": "Guest.Infrastructure",
+        "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Infrastructure\\Guest.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\INTEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\INTEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Application\\Guests.Application.csproj": {
+                "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Application\\Guests.Application.csproj"
+              },
+              "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Domain\\Guest.Domain.csproj": {
+                "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\GuestApp\\Guest.Domain\\Guest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
