@@ -1,7 +1,7 @@
-﻿using Guests.Application.Contracts.Repositories;
-using Guests.Application.Diagnostics;
-using Guests.Domain.EntityModels;
-using Guests.Persistence.Contexts;
+﻿using Proyecto.Application.Contracts.Repositories;
+using Proyecto.Application.Diagnostics;
+using Proyecto.Domain.EntityModels;
+using Proyecto.Persistence.Contexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using System;
@@ -11,7 +11,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Guests.Persistence.Repositories
+namespace Proyecto.Persistence.Repositories
 {
     public class Repository<TEntity> : IRepository<TEntity>
         where TEntity : Entity
@@ -48,7 +48,7 @@ namespace Guests.Persistence.Repositories
             if (includes.Any())
             {
                 query = includes.Aggregate
-                    (query, (current, include)=> current.Include(include));
+                    (query, (current, include) => current.Include(include));
             }
 
             return query;
@@ -65,7 +65,7 @@ namespace Guests.Persistence.Repositories
             _guard.ThrowIfNull(entity);
             _dbset.Update(entity);
         }
-        
+
         public void Delete(TEntity entity)
         {
             _guard.ThrowIfNull(entity);

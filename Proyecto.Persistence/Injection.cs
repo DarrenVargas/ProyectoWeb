@@ -1,13 +1,13 @@
-﻿using Guests.Application.Contracts.Contexts;
-using Guests.Application.Contracts.Repositories;
-using Guests.Domain.EntityModels.Guests;
-using Guests.Persistence.Contexts;
-using Guests.Persistence.Repositories;
+﻿using Proyecto.Application.Contracts.Contexts;
+using Proyecto.Application.Contracts.Repositories;
+using Proyecto.Domain.EntityModels.Cliente;
+using Proyecto.Persistence.Contexts;
+using Proyecto.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Guests.Persistence
+namespace Proyecto.Persistence
 {
     public static class Injection
     {
@@ -20,7 +20,7 @@ namespace Guests.Persistence
             services.AddScoped<IApplicationDbContext>
                 (options => options.GetService<ApplicationDbContext>());
 
-            services.AddRepository<Guest, IGuestRepository, GuestRepository>();
+            services.AddRepository<Cliente, IClienteRepository, ClienteRepository>();
 
             return services;
         }

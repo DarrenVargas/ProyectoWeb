@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Guests.Application.Contracts.Repositories
+namespace Proyecto.Application.Contracts.Repositories
 {
     public interface IRepository<TEntity>
         where TEntity : class

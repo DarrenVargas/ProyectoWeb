@@ -1,4 +1,4 @@
-﻿namespace Guests.Web
+﻿namespace Proyecto.Web
 {
     public static class Injection
     {

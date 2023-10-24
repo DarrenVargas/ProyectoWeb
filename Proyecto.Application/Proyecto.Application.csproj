@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Contracts\Diagnostics\**" />
+    <EmbeddedResource Remove="Contracts\Diagnostics\**" />
+    <None Remove="Contracts\Diagnostics\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="FluentValidation" Version="11.7.1" />
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.7.1" />
     <PackageReference Include="MediatR" Version="12.1.1" />
@@ -17,10 +23,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Proyecto.Domain\Proyecto.Domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Contracts\Diagnostics\" />
   </ItemGroup>
 
 </Project>

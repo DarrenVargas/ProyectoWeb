@@ -718,13 +718,13 @@
     },
     "Proyecto.Application/1.0.0": {
       "type": "project",
-      "path": "../Guest.Application/Proyecto.Application.csproj",
-      "msbuildProject": "../Guest.Application/Proyecto.Application.csproj"
+      "path": "../Proyecto.Application/Proyecto.Application.csproj",
+      "msbuildProject": "../Proyecto.Application/Proyecto.Application.csproj"
     },
     "Proyecto.Domain/1.0.0": {
       "type": "project",
-      "path": "../Guest.Domain/Proyecto.Domain.csproj",
-      "msbuildProject": "../Guest.Domain/Proyecto.Domain.csproj"
+      "path": "../Proyecto.Domain/Proyecto.Domain.csproj",
+      "msbuildProject": "../Proyecto.Domain/Proyecto.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -735,19 +735,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\INTEL\\.nuget\\packages\\": {}
+    "C:\\Users\\XPC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto\\Guest.Infrastructure\\Proyecto.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj",
       "projectName": "Proyecto.Infrastructure",
-      "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto\\Guest.Infrastructure\\Proyecto.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\INTEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto\\Guest.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\INTEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -761,11 +761,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto\\Guest.Application\\Proyecto.Application.csproj": {
-              "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto\\Guest.Application\\Proyecto.Application.csproj"
+            "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj": {
+              "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj"
             },
-            "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto\\Guest.Domain\\Proyecto.Domain.csproj": {
-              "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto\\Guest.Domain\\Proyecto.Domain.csproj"
+            "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
+              "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj"
             }
           }
         }
@@ -801,7 +801,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

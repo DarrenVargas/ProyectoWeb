@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Guests.Application.Diagnostics
+namespace Proyecto.Application.Diagnostics
 {
     public class Guard 
     {

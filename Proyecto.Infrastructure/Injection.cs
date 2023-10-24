@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Guests.Infrastructure
+namespace Proyecto.Infrastructure
 {
     public static class Injection
     {

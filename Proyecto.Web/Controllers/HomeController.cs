@@ -1,8 +1,8 @@
-﻿using Guests.Domain.ViewModels;
+﻿using Proyecto.Domain.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Guests.Web.Controllers
+namespace Proyecto.Web.Controllers
 {
     public class HomeController : Controller
     {

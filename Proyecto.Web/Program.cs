@@ -1,7 +1,7 @@
-using Guests.Application;
-using Guests.Persistence;
-using Guests.Infrastructure;
-using Guests.Web;
+using Proyecto.Application;
+using Proyecto.Persistence;
+using Proyecto.Infrastructure;
+using Proyecto.Web;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,4 +1,4 @@
-﻿using Guests.Domain.EntityModels.Guests;
+﻿using Proyecto.Domain.EntityModels.Cliente;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -6,11 +6,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Guests.Application.Contracts.Contexts
+namespace Proyecto.Application.Contracts.Contexts
 {
     public interface IApplicationDbContext
     {
-        DbSet<Guest> Guests { get; set; }
+        DbSet<Cliente> Clientes { get; set; }
 
         void Save();
     }

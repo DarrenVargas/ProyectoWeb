@@ -1,4 +1,4 @@
-namespace Guests.Domain.ViewModels
+namespace Proyecto.Domain.ViewModels
 {
     public class ErrorViewModel
     {

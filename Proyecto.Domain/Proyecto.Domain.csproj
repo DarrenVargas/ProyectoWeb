@@ -7,9 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ConfigurationModels\" />
-    <Folder Include="EntityModels\Plates\" />
-    <Folder Include="PlainModels\" />
+    <Compile Remove="ConfigurationModels\**" />
+    <Compile Remove="EntityModels\Plates\**" />
+    <Compile Remove="PlainModels\**" />
+    <EmbeddedResource Remove="ConfigurationModels\**" />
+    <EmbeddedResource Remove="EntityModels\Plates\**" />
+    <EmbeddedResource Remove="PlainModels\**" />
+    <None Remove="ConfigurationModels\**" />
+    <None Remove="EntityModels\Plates\**" />
+    <None Remove="PlainModels\**" />
   </ItemGroup>
 
 </Project>

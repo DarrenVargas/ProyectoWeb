@@ -1,5 +1,5 @@
-﻿using Guests.Application.Contracts.Repositories;
-using Guests.Domain.EntityModels;
+﻿using Proyecto.Application.Contracts.Repositories;
+using Proyecto.Domain.EntityModels;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Guests.Persistence.Repositories
+namespace Proyecto.Persistence.Repositories
 {
     public static class RepositoryServiceCollectionExtensions
     {

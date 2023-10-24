@@ -1,11 +1,11 @@
 ﻿using FluentValidation;
-using Guests.Application.Contracts;
-using Guests.Application.Diagnostics;
-using Guests.Application.Services;
+using Proyecto.Application.Contracts;
+using Proyecto.Application.Diagnostics;
+using Proyecto.Application.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Guests.Application
+namespace Proyecto.Application
 {
     public static class Injection
     {
@@ -19,7 +19,7 @@ namespace Guests.Application
             services.AddMediatR(options => options.RegisterServicesFromAssemblies(assembly));
             services.AddValidatorsFromAssembly(assembly);
 
-            services.AddScoped<IGuestService, GuestService>();
+            services.AddScoped<IClienteService, ClienteService>();
 
             return services;
         }
