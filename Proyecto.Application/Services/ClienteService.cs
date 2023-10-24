@@ -38,8 +38,8 @@ namespace Proyecto.Application.Services
 
         public bool Insert(NuevoCliente newCliente)
         {
-            Entities.Cliente cliente = new Entities.Cliente(newCliente.NombreCliente, newCliente.ApellidoCliente,
-                newCliente.CedulaCliente, newCliente.CorreoElectronico, newCliente.NumeroTelefono, newCliente.DireccionCliente);
+            Entities.Cliente cliente = new Entities.Cliente(newCliente.NombreCliente, newCliente.ApellidoCliente);
+            cliente.SetAdditionalInfo(newCliente.CedulaCliente, newCliente.CorreoElectronico, newCliente.NumeroTelefono, newCliente.DireccionCliente);
             _repository.Insert(cliente);
             _repository.Save();
             return true;

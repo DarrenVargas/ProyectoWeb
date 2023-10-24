@@ -1,5 +1,5 @@
 ﻿@using Proyecto.Domain.InputModels.Cliente;
-@model ClienteExistente
+@model NuevoCliente
 @{
     ViewData["Title"] = "Añadir Cliente";
 }
@@ -7,7 +7,7 @@
 <div class="container-fluid" style="max-width: 924px;">
     <div class="row">
         <div class="col-12">
-            <h1><i class="fa-solid fa-person-circle-plus"></i> Add Guests</h1>
+            <h1><i class="fa-solid fa-person-circle-plus"></i> Add Clientes</h1>
         </div>
     </div>
     <form method="post">
@@ -73,7 +73,7 @@
                 <div class="row">
                     <div class="col-12">
                         <button type="submit" class="btn btn-outline-success"><i class="fa-solid fa-user-shield"></i>Agregar</button>
-                        <a asp-asp-controller="Clientes" asp-action="Index" class="btn btn-outline-danger">Cancel</a>
+                        <a asp-asp-controller="Clientes" asp-action="Index" class="btn btn-outline-danger">Cancelar</a>
                     </div>
                 </div>
         </fieldset>

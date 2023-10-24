@@ -14,9 +14,9 @@ namespace Proyecto.Application.Contracts
 
         List<Cliente> List();
 
-        bool Insert(NuevoCliente newGuest);
+        bool Insert(NuevoCliente newCliente);
 
-        bool Update(ClienteExistente existingGuest);
+        bool Update(ClienteExistente existingCliente);
 
         bool Delete(int id);
     }
