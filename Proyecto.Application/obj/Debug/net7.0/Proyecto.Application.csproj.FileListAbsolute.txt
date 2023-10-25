@@ -28,3 +28,18 @@ C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Applica
 C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
 C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
 C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.deps.json
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CopyComplete
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
