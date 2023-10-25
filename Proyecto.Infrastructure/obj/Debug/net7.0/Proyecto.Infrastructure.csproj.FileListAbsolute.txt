@@ -15,23 +15,6 @@ C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Infrastructure
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Infrastructure\obj\Debug\net7.0\refint\Proyecto.Infrastructure.dll
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.pdb
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Infrastructure\obj\Debug\net7.0\ref\Proyecto.Infrastructure.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.deps.json
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.pdb
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Application.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Domain.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Application.pdb
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Domain.pdb
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.AssemblyInfo.cs
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.csproj.CopyComplete
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\refint\Proyecto.Infrastructure.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.pdb
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\ref\Proyecto.Infrastructure.dll
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.deps.json
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.dll
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.pdb

@@ -12,12 +12,12 @@ namespace Proyecto.Domain.InputModels.Cliente
     {
         [Required]
         [StringLength(25, MinimumLength = 2)]
-        [DisplayName("First Name")]
+        [DisplayName("Nombre")]
         public string NombreCliente { get; set; }
 
         [Required]
         [StringLength(50, MinimumLength = 2)]
-        [DisplayName("Last Name")]
+        [DisplayName("Apellido")]
         public string ApellidoCliente { get; set; }
 
         [Required]
