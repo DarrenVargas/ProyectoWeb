@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj": {}
+    "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj": {
+    "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
         "projectName": "Proyecto.Domain",
-        "projectPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj",
-        "packagesPath": "C:\\Users\\Daniel Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\obj\\",
+        "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
+        "packagesPath": "C:\\Users\\ran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Daniel Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

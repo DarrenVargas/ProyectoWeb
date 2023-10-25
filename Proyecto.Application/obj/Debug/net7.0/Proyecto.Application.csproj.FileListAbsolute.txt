@@ -43,3 +43,33 @@ C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.deps.json
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.dll
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CopyComplete
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.dll
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.deps.json
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.dll
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CopyComplete
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.dll
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
