@@ -11932,19 +11932,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\XPC\\.nuget\\packages\\": {}
+    "C:\\Users\\ran\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Web\\Proyecto.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Web\\Proyecto.Web.csproj",
       "projectName": "Proyecto.Web",
-      "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Web\\Proyecto.Web.csproj",
-      "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Web\\obj\\",
+      "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Web\\Proyecto.Web.csproj",
+      "packagesPath": "C:\\Users\\ran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11959,17 +11959,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj": {
-              "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj"
+            "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj": {
+              "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj"
             },
-            "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
-              "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj"
+            "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
+              "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj"
             },
-            "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj"
+            "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj"
             },
-            "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Persistence\\Proyecto.Persistence.csproj": {
-              "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Persistence\\Proyecto.Persistence.csproj"
+            "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Persistence\\Proyecto.Persistence.csproj": {
+              "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Persistence\\Proyecto.Persistence.csproj"
             }
           }
         }
