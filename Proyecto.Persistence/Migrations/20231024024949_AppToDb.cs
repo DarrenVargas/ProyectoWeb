@@ -21,8 +21,7 @@ namespace Proyecto.Persistence.Migrations
                     ApellidoCliente = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     CorreoElectronico = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     NumeroTelefono = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    DireccionCliente = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ParentId = table.Column<int>(type: "int", nullable: true)
+                    DireccionCliente = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {

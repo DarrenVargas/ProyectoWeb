@@ -13,21 +13,6 @@ C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Application\ob
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Application\obj\Debug\net7.0\Proyecto.Application.pdb
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.deps.json
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.pdb
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.pdb
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.AssemblyReference.cache
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfoInputs.cache
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfo.cs
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CoreCompileInputs.cache
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CopyComplete
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.deps.json
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.dll
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.pdb
@@ -43,3 +28,18 @@ C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.deps.json
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.dll
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CopyComplete
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.dll
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll

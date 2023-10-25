@@ -1,5 +1,6 @@
 ﻿using Proyecto.Application.Contracts.Contexts;
 using Proyecto.Domain.EntityModels.Cliente;
+using Proyecto.Domain.EntityModels.Colaboradores;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -18,6 +19,7 @@ namespace Proyecto.Persistence.Contexts
         }
 
         public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Colaborador> Colaboradores { get; set; }
 
         public void Save()
         {

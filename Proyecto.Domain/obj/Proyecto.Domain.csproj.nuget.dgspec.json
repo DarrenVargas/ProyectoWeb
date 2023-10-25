@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj": {}
+    "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj": {
+    "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
         "projectName": "Proyecto.Domain",
-        "projectPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj",
-        "packagesPath": "C:\\Users\\Daniel Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\obj\\",
+        "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
+        "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Daniel Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

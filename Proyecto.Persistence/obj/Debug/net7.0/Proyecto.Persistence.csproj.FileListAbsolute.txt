@@ -15,23 +15,6 @@ C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Persistence\ob
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Persistence\obj\Debug\net7.0\refint\Proyecto.Persistence.dll
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Persistence\obj\Debug\net7.0\Proyecto.Persistence.pdb
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Persistence\obj\Debug\net7.0\ref\Proyecto.Persistence.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.deps.json
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.pdb
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Application.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Domain.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Application.pdb
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Domain.pdb
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.csproj.AssemblyReference.cache
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.AssemblyInfoInputs.cache
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.AssemblyInfo.cs
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.csproj.CopyComplete
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\refint\Proyecto.Persistence.dll
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.pdb
-C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\ref\Proyecto.Persistence.dll
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.deps.json
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.dll
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.pdb
@@ -49,3 +32,20 @@ C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Persistence\obj\Debug\net7.0\refint\Proyecto.Persistence.dll
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.pdb
 C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Persistence\obj\Debug\net7.0\ref\Proyecto.Persistence.dll
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.deps.json
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.dll
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.pdb
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Application.dll
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.csproj.AssemblyReference.cache
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.AssemblyInfoInputs.cache
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.AssemblyInfo.cs
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.csproj.CopyComplete
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.dll
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\refint\Proyecto.Persistence.dll
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.pdb
+C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\ref\Proyecto.Persistence.dll
