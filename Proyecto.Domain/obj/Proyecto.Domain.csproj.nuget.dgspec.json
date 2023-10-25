@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto Avanzada Web\\Proyecto.Domain\\Proyecto.Domain.csproj": {}
+    "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto Avanzada Web\\Proyecto.Domain\\Proyecto.Domain.csproj": {
+    "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto Avanzada Web\\Proyecto.Domain\\Proyecto.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
         "projectName": "Proyecto.Domain",
-        "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto Avanzada Web\\Proyecto.Domain\\Proyecto.Domain.csproj",
-        "packagesPath": "C:\\Users\\INTEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\Proyecto Avanzada Web\\Proyecto.Domain\\obj\\",
+        "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
+        "packagesPath": "C:\\Users\\ran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\INTEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

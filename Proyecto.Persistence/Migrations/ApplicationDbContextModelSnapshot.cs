@@ -16,7 +16,7 @@ namespace Proyecto.Persistence.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "7.0.12")
+                .HasAnnotation("ProductVersion", "7.0.13")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -58,37 +58,44 @@ namespace Proyecto.Persistence.Migrations
                     b.ToTable("Clientes");
                 });
 
-            modelBuilder.Entity("Proyecto.Domain.EntityModels.Productos.Producto", b =>
+            modelBuilder.Entity("Proyecto.Domain.EntityModels.Colaboradores.Colaborador", b =>
                 {
-                    b.Property<int>("IdProducto")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdProducto"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("DescripcionProducto")
+                    b.Property<string>("ApellidoColaborador")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("IdCategoria")
+                    b.Property<string>("CedulaColaborador")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ImagenProducto")
+                    b.Property<string>("CorreoElectronico")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("NombreProducto")
+                    b.Property<string>("DireccionColaborador")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("PrecioProducto")
+                    b.Property<string>("NombreColaborador")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("IdProducto");
+                    b.Property<string>("NumeroTelefono")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
-                    b.ToTable("Productos");
+                    b.Property<float>("SalarioColaborador")
+                        .HasColumnType("real");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Colaboradores");
                 });
 #pragma warning restore 612, 618
         }

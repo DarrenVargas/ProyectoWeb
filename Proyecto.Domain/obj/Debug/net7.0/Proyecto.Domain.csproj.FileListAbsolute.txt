@@ -9,6 +9,17 @@ C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Domain\obj\Deb
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Domain\obj\Debug\net7.0\refint\Proyecto.Domain.dll
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Domain\obj\Debug\net7.0\Proyecto.Domain.pdb
 C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto\Guest.Domain\obj\Debug\net7.0\ref\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.deps.json
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfoInputs.cache
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfo.cs
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\refint\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\ref\Proyecto.Domain.dll
 C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.deps.json
 C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.dll
 C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.pdb
@@ -21,14 +32,36 @@ C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Domain\
 C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\refint\Proyecto.Domain.dll
 C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.pdb
 C:\Users\XPC\source\repos\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\ref\Proyecto.Domain.dll
-C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.deps.json
-C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.dll
-C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.pdb
-C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfoInputs.cache
-C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfo.cs
-C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.csproj.CoreCompileInputs.cache
-C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.dll
-C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Domain\obj\Debug\net7.0\refint\Proyecto.Domain.dll
-C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.pdb
-C:\Users\INTEL\source\repos\Progra Avanzada en Web\Proyecto Avanzada Web\Proyecto.Domain\obj\Debug\net7.0\ref\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.deps.json
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfoInputs.cache
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfo.cs
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\refint\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\Daniel Felipe\Documents\Programación Avanzada en Web\ProyectoWeb-main\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\ref\Proyecto.Domain.dll
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.deps.json
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfoInputs.cache
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfo.cs
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\refint\Proyecto.Domain.dll
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\ran\Desktop\ProyectoWeb-main\Proyecto.Domain\obj\Debug\net7.0\ref\Proyecto.Domain.dll
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.deps.json
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfoInputs.cache
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfo.cs
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\refint\Proyecto.Domain.dll
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\ref\Proyecto.Domain.dll

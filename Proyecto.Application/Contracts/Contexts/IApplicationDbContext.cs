@@ -5,14 +5,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Proyecto.Domain.EntityModels.Productos;
+using Proyecto.Domain.EntityModels.Colaboradores;
 
 namespace Proyecto.Application.Contracts.Contexts
 {
     public interface IApplicationDbContext
     {
         DbSet<Cliente> Clientes { get; set; }
-        DbSet<Producto> Productos { get; set; }
+        DbSet<Colaborador> Colaboradores { get; set; }
 
         void Save();
     }

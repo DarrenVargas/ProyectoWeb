@@ -20,7 +20,7 @@ namespace Proyecto.Application
             services.AddValidatorsFromAssembly(assembly);
 
             services.AddScoped<IClienteService, ClienteService>();
-            services.AddScoped<IProductoService, ProductoService>();
+            services.AddScoped<IColaboradorService, ColaboradorService>();
 
             return services;
         }

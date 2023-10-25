@@ -1,12 +1,12 @@
 ﻿using Proyecto.Application.Contracts.Contexts;
 using Proyecto.Domain.EntityModels.Cliente;
+using Proyecto.Domain.EntityModels.Colaboradores;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Proyecto.Domain.EntityModels.Productos;
 
 namespace Proyecto.Persistence.Contexts
 {
@@ -19,7 +19,7 @@ namespace Proyecto.Persistence.Contexts
         }
 
         public DbSet<Cliente> Clientes { get; set; }
-        public DbSet<Producto> Productos { get; set; }
+        public DbSet<Colaborador> Colaboradores { get; set; }
 
         public void Save()
         {
