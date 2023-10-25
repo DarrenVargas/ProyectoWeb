@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj": {}
+    "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj": {
+    "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Application\\Proyecto.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Application\\Proyecto.Application.csproj",
         "projectName": "Proyecto.Application",
-        "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj",
-        "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Application\\Proyecto.Application.csproj",
+        "packagesPath": "C:\\Users\\Daniel Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
-                "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj"
+              "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj": {
+                "projectPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj"
               }
             }
           }
@@ -85,21 +85,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
+    "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj",
         "projectName": "Proyecto.Domain",
-        "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
-        "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj",
+        "packagesPath": "C:\\Users\\Daniel Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -140,21 +140,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj": {
+    "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj",
         "projectName": "Proyecto.Infrastructure",
-        "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Daniel Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,11 +168,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj": {
-                "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj"
+              "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Application\\Proyecto.Application.csproj": {
+                "projectPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Application\\Proyecto.Application.csproj"
               },
-              "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
-                "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj"
+              "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj": {
+                "projectPath": "C:\\Users\\Daniel Felipe\\Documents\\Programación Avanzada en Web\\ProyectoWeb-main\\ProyectoWeb-main\\Proyecto.Domain\\Proyecto.Domain.csproj"
               }
             }
           }
@@ -208,7 +208,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
