@@ -1,4 +1,3 @@
-﻿using Proyecto.Domain.EntityModels.Productos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,8 +16,6 @@ namespace Proyecto.Domain.DTOs.Productos
             IdCategoria = idCategoria;
             PrecioProducto = precioProducto;
             ImagenProducto = imagenProducto;
-
-            //_companions = new List<Cliente>();
         }
 
         public int IdProducto { get; private set; }
@@ -31,14 +28,9 @@ namespace Proyecto.Domain.DTOs.Productos
 
         public string PrecioProducto { get; private set; }
 
-
         public string ImagenProducto { get; private set; }
 
-        //public IReadOnlyList<Cliente> Companios
-        //{
-        //    get { return _companions; }
-        //}
-
+      
         public bool HasChanged { get; private set; }
 
 

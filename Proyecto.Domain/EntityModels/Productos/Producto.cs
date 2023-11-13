@@ -19,14 +19,6 @@ namespace Proyecto.Domain.EntityModels.Productos
 
         }
 
-        //public void SetAdditionalInfo(string nombreProducto, string descripcionProducto, string IdCategoria, string precioProducto, int idProveedor, string ImagenProducto) //Solucion a problema con Constructor de Producto. +"No suitable constructor was found for entity type 'Producto'.Cannot bind 'correoProducto', 'telefonoProducto' in 'Producto(string nombreProducto,....
-
-        //{
-        //    NombreProducto = nombreProducto;
-        //    DescripcionProducto = descripcionProducto;
-        //    DireccionProducto = direccion;
-        //}
-
         [Key]
         public int IdProducto { get; private set; }
 
@@ -39,11 +31,6 @@ namespace Proyecto.Domain.EntityModels.Productos
         public string PrecioProducto { get; private set; }
 
         public string ImagenProducto { get; private set; }
-
-        //public int? ParentId { get; private set; }
-
-        //[ForeignKey("ParentId")]
-        //public List<Producto> Companions { get; private set; }
 
         public void Update(string nombreProducto, string descripcionProducto, string idCategoria, string precioProducto, string imagenProducto)
         {

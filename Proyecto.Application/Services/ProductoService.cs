@@ -2,7 +2,6 @@
 using Proyecto.Application.Contracts.Repositories;
 using Proyecto.Domain.DTOs.Productos;
 using Entities = Proyecto.Domain.EntityModels.Productos;
-using Proyecto.Domain.InputModels.Cliente;
 using Proyecto.Domain.InputModels.Producto;
 using System;
 using System.Collections.Generic;
@@ -51,7 +50,7 @@ namespace Proyecto.Application.Services
             _repository.Save();
             return true;
         }
-        
+
         public bool Delete(int id)
         {
             Entities.Producto producto = _repository.Get(s => s.IdProducto == id);
