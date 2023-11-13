@@ -8,7 +8,6 @@ namespace Proyecto.Domain.DTOs.Clientes
 {
     public class Cliente
     {
-        //private List<Cliente> _companions;
 
 
         public Cliente(int id, string nombreCliente, string apellidoCliente, string cedula, string correo, string telefono, string direccion1)
@@ -21,7 +20,6 @@ namespace Proyecto.Domain.DTOs.Clientes
             NumeroTelefono = telefono;
             DireccionCliente = direccion1;
 
-            //_companions = new List<Cliente>();
         }
 
         public int Id { get; private set; }
@@ -38,10 +36,6 @@ namespace Proyecto.Domain.DTOs.Clientes
 
         public string DireccionCliente { get; private set; }
 
-        //public IReadOnlyList<Cliente> Companios
-        //{
-        //    get { return _companions; }
-        //}
 
         public bool HasChanged { get; private set; }
 
@@ -67,10 +61,5 @@ namespace Proyecto.Domain.DTOs.Clientes
             NumeroTelefono = telefono;
             DireccionCliente = direccion;
         }
-
-        //public void AddCompanion(string firstname, string lastname)
-        //{
-        //    _companions.Add(new Cliente(0, firstname, lastname));
-        //}
     }
 }

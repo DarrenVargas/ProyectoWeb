@@ -735,19 +735,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ran\\.nuget\\packages\\": {}
+    "C:\\Users\\XPC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj",
       "projectName": "Proyecto.Infrastructure",
-      "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\ran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -761,11 +761,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj": {
-              "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj"
+            "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj": {
+              "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj"
             },
-            "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
-              "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj"
+            "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
+              "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj"
             }
           }
         }

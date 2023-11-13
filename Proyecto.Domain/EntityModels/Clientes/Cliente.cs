@@ -10,11 +10,6 @@ namespace Proyecto.Domain.EntityModels.Cliente
 {
     public class Cliente : Entity
     {
-        //private Cliente()
-        //{
-        //    Companions = new List<Cliente>();
-        //}
-
         public Cliente(string nombreCliente, string apellidoCliente)
         {
             NombreCliente = nombreCliente;
