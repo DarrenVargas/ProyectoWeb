@@ -13,7 +13,6 @@ namespace Proyecto.Application.Services
 {
     public class ProductoService : IProductoService
     {
-
         private readonly IProductoRepository _repository;
 
         public ProductoService(IProductoRepository _repository)
@@ -27,7 +26,7 @@ namespace Proyecto.Application.Services
             return new Producto(producto.IdProducto, producto.NombreProducto, producto.DescripcionProducto,
                 producto.IdCategoria, producto.PrecioProducto, producto.ImagenProducto);
         }
-
+        
         public List<Producto> List()
         {
             return _repository.GetAll().ToList()

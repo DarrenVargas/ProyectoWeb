@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,7 +16,6 @@ namespace Proyecto.Domain.DTOs.Productos
             IdCategoria = idCategoria;
             PrecioProducto = precioProducto;
             ImagenProducto = imagenProducto;
-
         }
 
         public int IdProducto { get; private set; }
@@ -31,6 +30,7 @@ namespace Proyecto.Domain.DTOs.Productos
 
         public string ImagenProducto { get; private set; }
 
+      
         public bool HasChanged { get; private set; }
 
 
