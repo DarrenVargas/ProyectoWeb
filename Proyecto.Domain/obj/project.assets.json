@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ran\\Desktop\\ProyectoWeb-Sebastian\\ProyectoWeb-Sebastian\\Proyecto.Domain\\Proyecto.Domain.csproj",
       "projectName": "Proyecto.Domain",
-      "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
+      "projectPath": "C:\\Users\\ran\\Desktop\\ProyectoWeb-Sebastian\\ProyectoWeb-Sebastian\\Proyecto.Domain\\Proyecto.Domain.csproj",
       "packagesPath": "C:\\Users\\ran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ran\\Desktop\\ProyectoWeb-Sebastian\\ProyectoWeb-Sebastian\\Proyecto.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
