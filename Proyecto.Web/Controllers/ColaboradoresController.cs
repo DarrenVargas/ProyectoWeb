@@ -1,6 +1,7 @@
 ﻿using Proyecto.Application.Contracts;
 using Proyecto.Domain.InputModels.Colaborador;
 using Microsoft.AspNetCore.Mvc;
+using Proyecto.Persistence.Migrations;
 
 namespace Proyecto.Web.Controllers
 {
@@ -36,7 +37,8 @@ namespace Proyecto.Web.Controllers
                 }
                 else
                 {
-                    return RedirectToAction("Index");
+                    HttpContext.Session.SetString("cedulaColaborador", newColaborador.CedulaColaborador);
+                    return RedirectToAction("Insert", "Usuarios");
                 }
             }
             return View(newColaborador);

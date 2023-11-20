@@ -21,7 +21,7 @@ namespace Proyecto.Domain.InputModels.Colaborador
         public string ApellidoColaborador { get; set; }
 
         [Required]
-        [StringLength(12)]
+        [StringLength(9)]
         [DisplayName("Cedula")]
         public string CedulaColaborador { get; set; }
 

@@ -41,11 +41,6 @@ namespace Proyecto.Domain.EntityModels.Cliente
 
         public string DireccionCliente { get; private set; }
 
-        //public int? ParentId { get; private set; }
-
-        //[ForeignKey("ParentId")]
-        //public List<Cliente> Companions { get; private set; }
-
         public void Update(string nombreCliente, string apellidoCliente, string cedula, string correo, string telefono, string direccion)
         {
             NombreCliente = nombreCliente;

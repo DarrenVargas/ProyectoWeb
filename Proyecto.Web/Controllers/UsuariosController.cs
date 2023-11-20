@@ -8,9 +8,14 @@ namespace Proyecto.Web.Controllers
     {
         private readonly IUsuarioService _service;
 
-        public UsuariosController(IUsuarioService service)
+        private readonly IColaboradorService _colaborador;
+        private readonly IClienteService _cliente;
+
+        public UsuariosController(IUsuarioService service, IColaboradorService colaborador, IClienteService cliente)
         {
             this._service = service;
+            this._colaborador = colaborador;
+            this._cliente = cliente;
         }
 
         public IActionResult Index()
@@ -30,17 +35,38 @@ namespace Proyecto.Web.Controllers
         {
             if (ModelState.IsValid)
             {
+                var cedulaColaborador = HttpContext.Session.GetString("cedulaColaborador");
+                var cedulaCliente = HttpContext.Session.GetString("cedulaCliente");
+
+
+                if (!string.IsNullOrEmpty(cedulaColaborador))
+                {
+                    var colaborador = _colaborador.GetByCedula(cedulaColaborador);
+                    newUser.IdColaborador = colaborador.Id;
+                    newUser.IsAdmin = true;
+                }
+
+                if (!string.IsNullOrEmpty(cedulaCliente))
+                {
+                    var cliente = _cliente.GetByCedula(cedulaCliente);
+                    newUser.IdCliente = cliente.Id;
+                    newUser.IsAdmin = false;
+                }
+
                 if (!_service.Insert(newUser))
                 {
                     ModelState.AddModelError(string.Empty, "Usuario no pudo ser ingresado");
                 }
                 else
                 {
-                    return RedirectToAction("Index");
+                    HttpContext.Session.Remove("cedulaColaborador");
+                    HttpContext.Session.Remove("cedulaCliente");
+                    return RedirectToAction("Index", "Home");
                 }
             }
             return View(newUser);
         }
+
 
         [HttpDelete]
         [Route("/api/v1/usuarios/delete/{id}")]

@@ -18,9 +18,11 @@ namespace Proyecto.Domain.InputModels.Usuarios
         [DisplayName("Contraseña")]
         public string PasswordUsuario { get; set; }
 
-        [Required]
-        [DisplayName("Nombre Persona")]
-        public int IdPersona { get; set; }
+        [DisplayName("Nombre Cliente")]
+        public int? IdCliente { get; set; }
+
+        [DisplayName("Nombre Colaborador")]
+        public int? IdColaborador { get; set; }
 
         [Required]
         [DisplayName("Admin")]

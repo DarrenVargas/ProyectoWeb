@@ -14,7 +14,9 @@ namespace Proyecto.Domain.InputModels.Usuarios
 
         public string PasswordUsuario { get; set; }
 
-        public int IdPersona { get; set; }
+        public int? IdCliente { get; set; }
+
+        public int? IdColaborador { get; set; }
 
         public bool IsAdmin { get; set; }
 

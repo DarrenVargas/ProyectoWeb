@@ -28,6 +28,13 @@ namespace Proyecto.Application.Services
                 cliente.CedulaCliente, cliente.CorreoElectronico, cliente.NumeroTelefono, cliente.DireccionCliente);
         }
 
+        public Cliente GetByCedula(string cedula)
+        {
+            var cliente = _repository.Get(c => c.CedulaCliente == cedula);
+            return new Cliente(cliente.Id, cliente.NombreCliente, cliente.ApellidoCliente,
+                cliente.CedulaCliente, cliente.CorreoElectronico, cliente.NumeroTelefono, cliente.DireccionCliente);
+        }
+
         public List<Cliente> List()
         {
             return _repository.GetAll().ToList()
@@ -61,5 +68,7 @@ namespace Proyecto.Application.Services
             _repository.Save();
             return true;
         }
+
+
     }
 }

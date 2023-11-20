@@ -9,12 +9,13 @@ namespace Proyecto.Domain.DTOs.Usuarios
 {
     public class Usuario
     {
-        public Usuario(int IdUsuario, string NombreUsuario, string PasswordUsuario, int? IdPersona, bool IsAdmin)
+        public Usuario(int IdUsuario, string NombreUsuario, string PasswordUsuario, int? IdCliente, int? IdColaborador, bool IsAdmin)
         {
             this.IdUsuario = IdUsuario;
             this.NombreUsuario = NombreUsuario;
             this.PasswordUsuario = PasswordUsuario;
-            this.IdPersona = IdPersona;
+            this.IdCliente = IdCliente;
+            this.IdColaborador = IdColaborador;
             this.IsAdmin = IsAdmin;
         }
 
@@ -24,7 +25,9 @@ namespace Proyecto.Domain.DTOs.Usuarios
 
         public string PasswordUsuario { get; private set; }
 
-        public int? IdPersona { get; private set; }
+        public int? IdCliente { get; private set; }
+
+        public int? IdColaborador { get; private set; }
 
         public bool IsAdmin { get; private set; }
 
@@ -38,7 +41,8 @@ namespace Proyecto.Domain.DTOs.Usuarios
 
             this.NombreUsuario = NombreUsuario;
             this.PasswordUsuario = PasswordUsuario;
-            this.IdPersona = IdPersona;
+            this.IdCliente = IdCliente;
+            this.IdColaborador = IdColaborador;
             this.IsAdmin = IsAdmin;
         }
     }

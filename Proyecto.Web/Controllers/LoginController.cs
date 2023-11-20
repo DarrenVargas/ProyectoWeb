@@ -39,29 +39,6 @@ namespace Proyecto.Web.Controllers
             }
             return View("Index");
         }
-
-        [HttpGet]
-        public ActionResult Registro()
-        {
-            return View(new NuevoUsuario());
-        }
-
-        [HttpPost]
-        public IActionResult Registro(NuevoUsuario newUsuario)
-        {
-            if (ModelState.IsValid)
-            {
-                if (!_service.Insert(newUsuario))
-                {
-                    ModelState.AddModelError(string.Empty, "Usuario no pudo ser ingresado");
-                }
-                else
-                {
-                    return RedirectToAction("Index");
-                }
-            }
-            return View(newUsuario);
-        }
     }
 }
 

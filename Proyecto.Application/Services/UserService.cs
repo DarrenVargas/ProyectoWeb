@@ -27,18 +27,18 @@ namespace Proyecto.Application.Services
         public Usuario Get(int id)
         {
             var user = _repository.Get(s => s.IdUsuario == id);
-            return new Usuario(user.IdUsuario, user.NombreUsuario, user.PasswordUsuario, user.IdPersona, user.IsAdmin);
+            return new Usuario(user.IdUsuario, user.NombreUsuario, user.PasswordUsuario, user.IdCliente, user.IdColaborador, user.IsAdmin);
         }
 
         public List<Usuario> List()
         {
             return _repository.GetAll().ToList()
-                .ConvertAll(user => new Usuario(user.IdUsuario, user.NombreUsuario, user.PasswordUsuario, user.IdPersona, user.IsAdmin));
+                .ConvertAll(user => new Usuario(user.IdUsuario, user.NombreUsuario, user.PasswordUsuario, user.IdCliente, user.IdColaborador, user.IsAdmin));
         }
 
         public bool Insert(NuevoUsuario newUsuario)
         {
-            Entities.Usuario user = new Entities.Usuario(newUsuario.NombreUsuario, newUsuario.PasswordUsuario, newUsuario.IdPersona, newUsuario.IsAdmin);
+            Entities.Usuario user = new Entities.Usuario(newUsuario.NombreUsuario, newUsuario.PasswordUsuario, newUsuario.IdCliente, newUsuario.IdColaborador, newUsuario.IsAdmin);
             _repository.Insert(user);
             _repository.Save();
             return true;
@@ -47,7 +47,7 @@ namespace Proyecto.Application.Services
         public bool Update(UsuarioExistente existingUsuario)
         {
             Entities.Usuario user = _repository.Get(s => s.IdUsuario == existingUsuario.IdUsuario);
-            user.Update(existingUsuario.NombreUsuario, existingUsuario.PasswordUsuario, existingUsuario.IdPersona, existingUsuario.IsAdmin);
+            user.Update(existingUsuario.NombreUsuario, existingUsuario.PasswordUsuario, existingUsuario.IdCliente, existingUsuario.IdColaborador, existingUsuario.IsAdmin);
             _repository.Update(user);
             _repository.Save();
             return true;
