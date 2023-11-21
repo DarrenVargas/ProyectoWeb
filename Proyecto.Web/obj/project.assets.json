@@ -11932,19 +11932,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ran\\.nuget\\packages\\": {}
+    "C:\\Users\\INTEL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Web\\Proyecto.Web.csproj",
+      "projectUniqueName": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Web\\Proyecto.Web.csproj",
       "projectName": "Proyecto.Web",
-      "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Web\\Proyecto.Web.csproj",
-      "packagesPath": "C:\\Users\\ran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Web\\obj\\",
+      "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Web\\Proyecto.Web.csproj",
+      "packagesPath": "C:\\Users\\INTEL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\INTEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11952,24 +11952,23 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj": {
-              "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj"
+            "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj": {
+              "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj"
             },
-            "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
-              "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj"
+            "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
+              "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj"
             },
-            "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj"
+            "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Infrastructure\\Proyecto.Infrastructure.csproj"
             },
-            "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Persistence\\Proyecto.Persistence.csproj": {
-              "projectPath": "C:\\Users\\ran\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Persistence\\Proyecto.Persistence.csproj"
+            "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Persistence\\Proyecto.Persistence.csproj": {
+              "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Persistence\\Proyecto.Persistence.csproj"
             }
           }
         }
@@ -12034,7 +12033,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

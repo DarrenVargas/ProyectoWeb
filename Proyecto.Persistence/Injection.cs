@@ -7,6 +7,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Proyecto.Domain.EntityModels.Colaboradores;
+using Proyecto.Domain.EntityModels.Categorias;
+using Proyecto.Domain.EntityModels.Facturaciones;
+using Proyecto.Domain.EntityModels.Proveedores;
+using Proyecto.Domain.EntityModels.Productos;
 
 namespace Proyecto.Persistence
 {
@@ -23,6 +27,10 @@ namespace Proyecto.Persistence
 
             services.AddRepository<Cliente, IClienteRepository, ClienteRepository>();
             services.AddRepository<Colaborador, IColaboradorRepository, ColaboradorRepository>();
+            services.AddRepository<Categoria, ICategoriaRepository, CategoriaRepository>();
+            services.AddRepository<Facturacion, IFacturacionRepository, FacturacionRepository>();
+            services.AddRepository<Proveedor, IProveedorRepository, ProveedorRepository>();
+            services.AddRepository<Producto, IProductoRepository, ProductoRepository>();
 
             return services;
         }

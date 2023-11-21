@@ -10,9 +10,6 @@ namespace Proyecto.Persistence.Migrations
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DropColumn(
-                name: "ParentId",
-                table: "Clientes");
 
             migrationBuilder.CreateTable(
                 name: "Productos",
@@ -38,11 +35,6 @@ namespace Proyecto.Persistence.Migrations
             migrationBuilder.DropTable(
                 name: "Productos");
 
-            migrationBuilder.AddColumn<int>(
-                name: "ParentId",
-                table: "Clientes",
-                type: "int",
-                nullable: true);
         }
     }
 }
