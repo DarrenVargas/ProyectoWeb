@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\INTEL\\.nuget\\packages\\": {}
+    "C:\\Users\\XPC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\ExProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
       "projectName": "Proyecto.Domain",
-      "projectPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
-      "packagesPath": "C:\\Users\\INTEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INTEL\\source\\repos\\Progra Avanzada en Web\\ProyectoWeb\\ProyectoWeb\\Proyecto.Domain\\obj\\",
+      "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\ExProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj",
+      "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\ExProyecto\\ProyectoWeb\\Proyecto.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\INTEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
