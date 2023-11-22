@@ -21,7 +21,7 @@ namespace Proyecto.Domain.InputModels.Cliente
         public string ApellidoCliente { get; set; }
 
         [Required]
-        [StringLength(12)]
+        [StringLength(9)]
         [DisplayName("Cedula")]
         public string CedulaCliente { get; set; }
 

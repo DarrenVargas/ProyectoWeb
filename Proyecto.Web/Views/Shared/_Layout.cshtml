@@ -43,10 +43,30 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Colaboradores" asp-action="Index">Colaboradores</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Login">Log In</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Categorias" asp-action="Index">Categorias</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Proveedores" asp-action="Index">Proveedores</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Facturaciones" asp-action="Index">Facturaciones</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
                         </li>
 
+                        @if (Context.Session.GetString("username") != null)
+                        {
+                            <li class="nav-item">
+                                <p>@Context.Session.GetString("username")</p>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Index">Cerrar Sesión</a>
+                            </li>
+                        }
+
                     </ul>
+
                 </div>
             </div>
         </nav>

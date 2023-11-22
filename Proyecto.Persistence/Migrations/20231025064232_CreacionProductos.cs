@@ -34,6 +34,10 @@ namespace Proyecto.Persistence.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Productos");
+<<<<<<< HEAD
+=======
+
+>>>>>>> Darren
         }
     }
 }

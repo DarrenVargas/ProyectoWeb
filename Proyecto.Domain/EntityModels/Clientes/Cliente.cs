@@ -10,6 +10,10 @@ namespace Proyecto.Domain.EntityModels.Cliente
 {
     public class Cliente : Entity
     {
+<<<<<<< HEAD
+=======
+
+>>>>>>> Darren
         public Cliente(string nombreCliente, string apellidoCliente)
         {
             NombreCliente = nombreCliente;
@@ -40,11 +44,6 @@ namespace Proyecto.Domain.EntityModels.Cliente
         public string NumeroTelefono { get; private set; }
 
         public string DireccionCliente { get; private set; }
-
-        //public int? ParentId { get; private set; }
-
-        //[ForeignKey("ParentId")]
-        //public List<Cliente> Companions { get; private set; }
 
         public void Update(string nombreCliente, string apellidoCliente, string cedula, string correo, string telefono, string direccion)
         {

@@ -36,7 +36,8 @@ namespace Proyecto.Web.Controllers
                 }
                 else
                 {
-                    return RedirectToAction("Index");
+                    HttpContext.Session.SetString("cedulaCliente", newCliente.CedulaCliente);
+                    return RedirectToAction("Insert", "Usuarios");
                 }
             }
             return View(newCliente);

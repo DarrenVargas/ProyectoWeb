@@ -12,6 +12,8 @@ namespace Proyecto.Application.Contracts
     {
         Cliente Get(int id);
 
+        Cliente GetByCedula(string cedula);
+
         List<Cliente> List();
 
         bool Insert(NuevoCliente newCliente);

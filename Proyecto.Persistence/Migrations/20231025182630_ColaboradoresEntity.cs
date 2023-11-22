@@ -37,11 +37,6 @@ namespace Proyecto.Persistence.Migrations
             migrationBuilder.DropTable(
                 name: "Colaboradores");
 
-            migrationBuilder.AddColumn<int>(
-                name: "ParentId",
-                table: "Clientes",
-                type: "int",
-                nullable: true);
         }
     }
 }

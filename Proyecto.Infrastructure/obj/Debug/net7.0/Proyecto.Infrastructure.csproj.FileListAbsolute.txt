@@ -66,6 +66,7 @@ C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7
 C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\refint\Proyecto.Infrastructure.dll
 C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.pdb
 C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\ref\Proyecto.Infrastructure.dll
+<<<<<<< HEAD
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.deps.json
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.dll
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.pdb
@@ -83,3 +84,22 @@ C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWe
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\refint\Proyecto.Infrastructure.dll
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.pdb
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\ref\Proyecto.Infrastructure.dll
+=======
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.deps.json
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Infrastructure.pdb
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Application.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.AssemblyInfo.cs
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.csproj.CopyComplete
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\refint\Proyecto.Infrastructure.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\Proyecto.Infrastructure.pdb
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Infrastructure\obj\Debug\net7.0\ref\Proyecto.Infrastructure.dll
+>>>>>>> Darren

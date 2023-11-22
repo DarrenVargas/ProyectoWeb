@@ -12,6 +12,8 @@ namespace Proyecto.Application.Contracts
     {
         Colaborador Get(int id);
 
+        Colaborador GetByCedula(string cedula);
+
         List<Colaborador> List();
 
         bool Insert(NuevoColaborador newColaborador);

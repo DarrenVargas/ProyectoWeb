@@ -28,6 +28,13 @@ namespace Proyecto.Application.Services
                 colaborador.CedulaColaborador, colaborador.CorreoElectronico, colaborador.NumeroTelefono, colaborador.DireccionColaborador, colaborador.SalarioColaborador);
         }
 
+        public Colaborador GetByCedula(string cedula)
+        {
+            var colaborador = _repository.Get(c => c.CedulaColaborador == cedula);
+            return new Colaborador(colaborador.Id, colaborador.NombreColaborador, colaborador.ApellidoColaborador,
+                colaborador.CedulaColaborador, colaborador.CorreoElectronico, colaborador.NumeroTelefono, colaborador.DireccionColaborador, colaborador.SalarioColaborador);
+        }
+
         public List<Colaborador> List()
         {
             return _repository.GetAll().ToList()
@@ -62,5 +69,7 @@ namespace Proyecto.Application.Services
             _repository.Save();
             return true;
         }
+
+
     }
 }
