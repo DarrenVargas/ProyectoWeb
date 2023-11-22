@@ -21,7 +21,13 @@ namespace Proyecto.Application
 
             services.AddScoped<IClienteService, ClienteService>();
             services.AddScoped<IColaboradorService, ColaboradorService>();
+            services.AddScoped<ICategoriaService, CategoriaService>();
             services.AddScoped<IProductoService, ProductoService>();
+<<<<<<< HEAD
+=======
+            services.AddScoped<IFacturacionService, FacturacionService>();
+            services.AddScoped<IProveedorService, ProveedorService>();
+>>>>>>> main
             services.AddScoped<IUsuarioService, UsuarioService>();
 
             return services;

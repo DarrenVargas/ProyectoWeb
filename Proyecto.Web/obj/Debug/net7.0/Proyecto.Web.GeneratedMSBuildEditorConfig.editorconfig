@@ -16,7 +16,19 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Web
 build_property._RazorSourceGeneratorDebug = 
 
+<<<<<<< HEAD
 [C:/Users/Daniel Felipe/Documents/GitHub/ProyectoWeb/Proyecto.Web/Views/Clientes/Index.cshtml]
+=======
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Categorias/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbnNlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Clientes/Index.cshtml]
+>>>>>>> main
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
@@ -32,6 +44,7 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3Jlc1xJbnNlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/Daniel Felipe/Documents/GitHub/ProyectoWeb/Proyecto.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +55,46 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Daniel Felipe/Documents/GitHub/ProyectoWeb/Proyecto.Web/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+=======
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Facturaciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYWNpb25lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Facturaciones/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYWNpb25lc1xJbnNlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Login/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Productos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Productos/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Proveedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Proveedores/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcSW5zZXJ0LmNzaHRtbA==
+>>>>>>> main
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Daniel Felipe/Documents/GitHub/ProyectoWeb/Proyecto.Web/Views/Login/Registro.cshtml]
@@ -68,6 +121,7 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/Daniel Felipe/Documents/GitHub/ProyectoWeb/Proyecto.Web/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -77,6 +131,17 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5zZXJ0LmNzaHRt
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Daniel Felipe/Documents/GitHub/ProyectoWeb/Proyecto.Web/Views/_ViewImports.cshtml]
+=======
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Usuarios/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5zZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/_ViewImports.cshtml]
+>>>>>>> main
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
@@ -88,6 +153,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-unfhv0ra44
 
+<<<<<<< HEAD
 [C:/Users/Daniel Felipe/Documents/GitHub/ProyectoWeb/Proyecto.Web/Views/Shared/_LayoutNoNavbar.cshtml]
+=======
+[C:/Users/XPC/source/repos/PrograAvanzadaWeb/PrograAvanzadaWebProyecto/ProyectoWeb/Proyecto.Web/Views/Shared/_LayoutNoNavbar.cshtml]
+>>>>>>> main
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXROb05hdmJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-33h9nbfren

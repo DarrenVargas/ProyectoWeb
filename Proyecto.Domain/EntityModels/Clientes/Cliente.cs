@@ -10,6 +10,10 @@ namespace Proyecto.Domain.EntityModels.Cliente
 {
     public class Cliente : Entity
     {
+<<<<<<< HEAD
+=======
+
+>>>>>>> Darren
         public Cliente(string nombreCliente, string apellidoCliente)
         {
             NombreCliente = nombreCliente;

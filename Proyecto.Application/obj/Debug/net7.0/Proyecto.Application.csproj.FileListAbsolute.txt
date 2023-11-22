@@ -58,6 +58,7 @@ C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\
 C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
 C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
 C:\Users\ran\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
+<<<<<<< HEAD
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.deps.json
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.dll
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.pdb
@@ -73,6 +74,7 @@ C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWe
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
+<<<<<<< HEAD
 C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.deps.json
 C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.dll
 C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.pdb
@@ -88,3 +90,22 @@ C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Deb
 C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
 C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
 C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
+=======
+=======
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.deps.json
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CopyComplete
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\INTEL\source\repos\Progra Avanzada en Web\ProyectoWeb\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
+>>>>>>> Darren
+>>>>>>> main

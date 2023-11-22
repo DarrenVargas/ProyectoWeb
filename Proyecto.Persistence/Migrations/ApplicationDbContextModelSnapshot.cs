@@ -22,6 +22,39 @@ namespace Proyecto.Persistence.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("Proyecto.Domain.EntityModels.Categorias.Categoria", b =>
+                {
+                    b.Property<int>("IdCategoria")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdCategoria"));
+
+                    b.Property<string>("CorreoElectronico")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("DescripcionCategoria")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("DireccionCategoria")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NombreCategoria")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NumeroTelefono")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("IdCategoria");
+
+                    b.ToTable("Categorias");
+                });
+
             modelBuilder.Entity("Proyecto.Domain.EntityModels.Cliente.Cliente", b =>
                 {
                     b.Property<int>("Id")
@@ -99,6 +132,34 @@ namespace Proyecto.Persistence.Migrations
                     b.ToTable("Colaboradores");
                 });
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+            modelBuilder.Entity("Proyecto.Domain.EntityModels.Facturaciones.Facturacion", b =>
+                {
+                    b.Property<int>("IdFacturacion")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdFacturacion"));
+
+                    b.Property<int>("IdProducto")
+                        .HasColumnType("int");
+
+                    b.Property<int>("IdUsuario")
+                        .HasColumnType("int");
+
+                    b.Property<float>("PrecioTotal")
+                        .HasColumnType("real");
+
+                    b.HasKey("IdFacturacion");
+
+                    b.ToTable("Facturaciones");
+                });
+
+=======
+>>>>>>> Sebastian
+>>>>>>> main
             modelBuilder.Entity("Proyecto.Domain.EntityModels.Productos.Producto", b =>
                 {
                     b.Property<int>("IdProducto")
@@ -132,6 +193,34 @@ namespace Proyecto.Persistence.Migrations
                     b.ToTable("Productos");
                 });
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+            modelBuilder.Entity("Proyecto.Domain.EntityModels.Proveedores.Proveedor", b =>
+                {
+                    b.Property<int>("IdProveedor")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdProveedor"));
+
+                    b.Property<string>("CorreoProveedor")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("DireccionProveedor")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NombreProveedor")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("IdProveedor");
+
+                    b.ToTable("Proveedores");
+=======
+>>>>>>> main
             modelBuilder.Entity("Proyecto.Domain.EntityModels.Usuarios.Usuario", b =>
                 {
                     b.Property<int>("IdUsuario")
@@ -179,6 +268,10 @@ namespace Proyecto.Persistence.Migrations
                     b.Navigation("Cliente");
 
                     b.Navigation("Colaborador");
+<<<<<<< HEAD
+=======
+>>>>>>> Sebastian
+>>>>>>> main
                 });
 #pragma warning restore 612, 618
         }

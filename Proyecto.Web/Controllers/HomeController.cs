@@ -8,12 +8,15 @@ namespace Proyecto.Web.Controllers
 {
     public class HomeController : Controller
     {
+<<<<<<< HEAD
         private readonly IProductoService _service;
 
         public HomeController(IProductoService service)
         {
             this._service = service;
         }
+=======
+>>>>>>> main
         public IActionResult Index()
         {
             var Productos = _service.List();

@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Proyecto.Persistence
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\
+=======
+build_property.ProjectDir = C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\
+>>>>>>> main
