@@ -73,3 +73,18 @@ C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWe
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.deps.json
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.csproj.CopyComplete
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\refint\Proyecto.Application.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Application\obj\Debug\net7.0\ref\Proyecto.Application.dll

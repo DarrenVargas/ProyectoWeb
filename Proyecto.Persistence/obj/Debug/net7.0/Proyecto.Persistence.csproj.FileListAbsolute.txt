@@ -83,3 +83,20 @@ C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWe
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\refint\Proyecto.Persistence.dll
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.pdb
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\ref\Proyecto.Persistence.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.deps.json
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Persistence.pdb
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Application.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Application.pdb
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.csproj.AssemblyReference.cache
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.AssemblyInfoInputs.cache
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.AssemblyInfo.cs
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.csproj.CopyComplete
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\refint\Proyecto.Persistence.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\Proyecto.Persistence.pdb
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Persistence\obj\Debug\net7.0\ref\Proyecto.Persistence.dll

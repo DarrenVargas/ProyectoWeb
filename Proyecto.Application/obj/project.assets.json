@@ -715,19 +715,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\XPC\\.nuget\\packages\\": {}
+    "C:\\Users\\Daniel Felipe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel Felipe\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj",
       "projectName": "Proyecto.Application",
-      "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj",
-      "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Application\\obj\\",
+      "projectPath": "C:\\Users\\Daniel Felipe\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Application\\Proyecto.Application.csproj",
+      "packagesPath": "C:\\Users\\Daniel Felipe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Daniel Felipe\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -741,8 +741,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
-              "projectPath": "C:\\Users\\XPC\\source\\repos\\PrograAvanzadaWeb\\PrograAvanzadaWebProyecto\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj"
+            "C:\\Users\\Daniel Felipe\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj": {
+              "projectPath": "C:\\Users\\Daniel Felipe\\Documents\\GitHub\\ProyectoWeb\\Proyecto.Domain\\Proyecto.Domain.csproj"
             }
           }
         }
@@ -798,7 +798,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

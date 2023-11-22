@@ -66,3 +66,14 @@ C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWe
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\refint\Proyecto.Domain.dll
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.pdb
 C:\Users\XPC\source\repos\PrograAvanzadaWeb\PrograAvanzadaWebProyecto\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\ref\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.deps.json
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Domain\bin\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfoInputs.cache
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.AssemblyInfo.cs
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\refint\Proyecto.Domain.dll
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\Proyecto.Domain.pdb
+C:\Users\Daniel Felipe\Documents\GitHub\ProyectoWeb\Proyecto.Domain\obj\Debug\net7.0\ref\Proyecto.Domain.dll
